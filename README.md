@@ -4,14 +4,14 @@
       Travelling ✈️
       Playing games 🎮
 
-Skills: 
-Proficient: Java, J2EE, Spring, Spring Boot, HTML, CSS, JavaScript, SQL
-Currently Learning: Python, Git/GitHub, c++, DSA
-Planning to Learn: React JS, nodejs, Expressjs
-Goals: 
-I'm currently seeking job opportunities where I can apply my skills and knowledge to contribute to the growth of an organization while furthering my own professional development.
+- Skills: 
+      - Proficient: Java, J2EE, Spring, Spring Boot, HTML, CSS, JavaScript, SQL
+      - Currently Learning: Python, Git/GitHub, c++, DSA
+      - Planning to Learn: React JS, nodejs, Expressjs
+- Goals: 
+      I'm currently seeking job opportunities where I can apply my skills and knowledge to contribute to the growth of an organization while furthering my own professional development.
 
-Feel free to reach out to collaborate or discuss anything related to technology, music, travel, or gaming......!
+- Feel free to reach out to collaborate or discuss anything related to technology, music, travel, or gaming......!
 
 
 <!---
