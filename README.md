@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Shashivanth😊
-- 👀 I’m interested in Music, Travelling but not yet Started it ad up skilling myself with new technologies which may help in the future.
-- 🌱 I’m currently learning python and i think it is easy and helpfull for me to understand the logics and be ready to face any challange regarging this course along with Java, j2ee, Spring and Spring boot html, css, javascript and sql.
-- 💞️ I’m looking for an oppurtunity where my skills and knowledge are tested and helpfull for the organisation and mine as well
-- 📫 How to reach me.....
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Shashivanth Dasi😊, Date of Birth: Feb 21, 1998.
+- Interests
+      Music 🎵
+      Travelling ✈️
+      Playing games 🎮
+
+Skills: 
+Proficient: Java, J2EE, Spring, Spring Boot, HTML, CSS, JavaScript, SQL
+Currently Learning: Python, Git/GitHub, c++, DSA
+Planning to Learn: React JS, nodejs, Expressjs
+Goals: 
+I'm currently seeking job opportunities where I can apply my skills and knowledge to contribute to the growth of an organization while furthering my own professional development.
+
+Feel free to reach out to collaborate or discuss anything related to technology, music, travel, or gaming......!
+
 
 <!---
 Shashivanth9494/Shashivanth9494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
